@@ -1,9 +1,0 @@
-C:\Users\pc1\Desktop\BitKiller\BitKiller\bin\Debug\BitKiller.exe.config
-C:\Users\pc1\Desktop\BitKiller\BitKiller\bin\Debug\BitKiller.exe
-C:\Users\pc1\Desktop\BitKiller\BitKiller\bin\Debug\BitKiller.pdb
-C:\Users\pc1\Desktop\BitKiller\BitKiller\obj\Debug\BitKiller.csprojResolveAssemblyReference.cache
-C:\Users\pc1\Desktop\BitKiller\BitKiller\obj\Debug\BitKiller.exe
-C:\Users\pc1\Desktop\BitKiller\BitKiller\obj\Debug\BitKiller.pdb
-C:\Users\pc1\Desktop\Working C# projects\BitKiller\BitKiller\bin\Debug\BitKiller.exe.config
-C:\Users\pc1\Desktop\Working C# projects\BitKiller\BitKiller\obj\Debug\BitKiller.exe
-C:\Users\pc1\Desktop\Working C# projects\BitKiller\BitKiller\obj\Debug\BitKiller.pdb
