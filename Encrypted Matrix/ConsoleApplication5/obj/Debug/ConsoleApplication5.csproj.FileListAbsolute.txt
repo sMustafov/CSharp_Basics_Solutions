@@ -1,0 +1,9 @@
+C:\Users\pc1\Desktop\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+C:\Users\pc1\Desktop\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+C:\Users\pc1\Desktop\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+C:\Users\pc1\Desktop\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.csprojResolveAssemblyReference.cache
+C:\Users\pc1\Desktop\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+C:\Users\pc1\Desktop\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
+C:\Users\pc1\Desktop\Working C# projects\Encrypted Matrix\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+C:\Users\pc1\Desktop\Working C# projects\Encrypted Matrix\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+C:\Users\pc1\Desktop\Working C# projects\Encrypted Matrix\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb

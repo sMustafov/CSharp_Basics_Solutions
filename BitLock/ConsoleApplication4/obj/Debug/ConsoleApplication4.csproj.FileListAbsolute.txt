@@ -1,0 +1,9 @@
+C:\Users\pc1\Desktop\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+C:\Users\pc1\Desktop\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Users\pc1\Desktop\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\Users\pc1\Desktop\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.csprojResolveAssemblyReference.cache
+C:\Users\pc1\Desktop\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+C:\Users\pc1\Desktop\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
+C:\Users\pc1\Desktop\Working C# projects\BitLock\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+C:\Users\pc1\Desktop\Working C# projects\BitLock\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+C:\Users\pc1\Desktop\Working C# projects\BitLock\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb

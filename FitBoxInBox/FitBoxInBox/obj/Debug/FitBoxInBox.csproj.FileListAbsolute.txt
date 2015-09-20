@@ -1,0 +1,9 @@
+C:\Users\pc1\Desktop\FitBoxInBox\FitBoxInBox\bin\Debug\FitBoxInBox.exe.config
+C:\Users\pc1\Desktop\FitBoxInBox\FitBoxInBox\bin\Debug\FitBoxInBox.exe
+C:\Users\pc1\Desktop\FitBoxInBox\FitBoxInBox\bin\Debug\FitBoxInBox.pdb
+C:\Users\pc1\Desktop\FitBoxInBox\FitBoxInBox\obj\Debug\FitBoxInBox.csprojResolveAssemblyReference.cache
+C:\Users\pc1\Desktop\FitBoxInBox\FitBoxInBox\obj\Debug\FitBoxInBox.exe
+C:\Users\pc1\Desktop\FitBoxInBox\FitBoxInBox\obj\Debug\FitBoxInBox.pdb
+C:\Users\pc1\Desktop\Working C# projects\FitBoxInBox\FitBoxInBox\bin\Debug\FitBoxInBox.exe.config
+C:\Users\pc1\Desktop\Working C# projects\FitBoxInBox\FitBoxInBox\obj\Debug\FitBoxInBox.exe
+C:\Users\pc1\Desktop\Working C# projects\FitBoxInBox\FitBoxInBox\obj\Debug\FitBoxInBox.pdb

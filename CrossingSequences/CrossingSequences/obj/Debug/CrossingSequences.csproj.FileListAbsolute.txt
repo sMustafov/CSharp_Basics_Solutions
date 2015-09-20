@@ -1,0 +1,9 @@
+C:\Users\pc1\Desktop\CrossingSequences\CrossingSequences\bin\Debug\CrossingSequences.exe.config
+C:\Users\pc1\Desktop\CrossingSequences\CrossingSequences\bin\Debug\CrossingSequences.exe
+C:\Users\pc1\Desktop\CrossingSequences\CrossingSequences\bin\Debug\CrossingSequences.pdb
+C:\Users\pc1\Desktop\CrossingSequences\CrossingSequences\obj\Debug\CrossingSequences.csprojResolveAssemblyReference.cache
+C:\Users\pc1\Desktop\CrossingSequences\CrossingSequences\obj\Debug\CrossingSequences.exe
+C:\Users\pc1\Desktop\CrossingSequences\CrossingSequences\obj\Debug\CrossingSequences.pdb
+C:\Users\pc1\Desktop\Working C# projects\CrossingSequences\CrossingSequences\bin\Debug\CrossingSequences.exe.config
+C:\Users\pc1\Desktop\Working C# projects\CrossingSequences\CrossingSequences\obj\Debug\CrossingSequences.exe
+C:\Users\pc1\Desktop\Working C# projects\CrossingSequences\CrossingSequences\obj\Debug\CrossingSequences.pdb

@@ -1,0 +1,8 @@
+C:\Users\pc1\Desktop\ConsoleApplication2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\pc1\Desktop\ConsoleApplication2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\pc1\Desktop\ConsoleApplication2\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\pc1\Desktop\ConsoleApplication2\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\pc1\Desktop\ConsoleApplication2\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\pc1\Desktop\Working C# projects\DoubleDowns\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\pc1\Desktop\Working C# projects\DoubleDowns\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\pc1\Desktop\Working C# projects\DoubleDowns\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
